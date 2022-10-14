@@ -67,7 +67,7 @@ namespace InterfacesInCSharp.Classes
         Console.WriteLine("Please select a move\nLight Attack: 12 damage\nStrong Attack: 21 damage\nJumpAttack: 32 damage\nParry: 9 damage");
         // this is where the bug is i need to check if the tryparse fails or not. if it fails, then that means the spot is already occupied
         // i have no clue why this loop is repeating when the user types in an answer the first time
-        Console.ReadLine();
+        desiredMove = Console.ReadLine();
       }
       return desiredMove;
     }
@@ -80,30 +80,24 @@ namespace InterfacesInCSharp.Classes
 
         string desiredMove = GetDesiredMove();
 
-        if (desiredMove != "light attack" || desiredMove != "strong attack" ||desiredMove != "jump attack" ||desiredMove != "parry")
+        switch (desiredMove)
         {
-          Console.WriteLine("Not a valid move! Try again");
-          TakeTurn();
-        }
-        else
-        {
-          switch (desiredMove)
-          {
-            case "light attack":
-              LightAttack();
-              break;
-            case "strong attack":
-              StrongAttack();
-              break;
-            case "jump attack":
-              Jump();
-              break;
-            case "parry":
-              Parry();
-              break;
-            default:
-              break;
-          }
+          case "light attack":
+            LightAttack();
+            break;
+          case "strong attack":
+            StrongAttack();
+            break;
+          case "jump attack":
+            Jump();
+            break;
+          case "parry":
+            Parry();
+            break;
+          default:
+            Console.WriteLine("Not a valid move! Try again");
+            TakeTurn(); // idk if i can call a method from inside the method, but lets try
+            break;
         }
       }
     }

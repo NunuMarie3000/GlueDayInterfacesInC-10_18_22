@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/bin/Debug/net6.0/InterfacesInCSharp
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/bin/Debug/net6.0/InterfacesInCSharp.deps.json
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/bin/Debug/net6.0/InterfacesInCSharp.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/bin/Debug/net6.0/InterfacesInCSharp.dll
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/bin/Debug/net6.0/InterfacesInCSharp.pdb
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.dll
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/refint/InterfacesInCSharp.dll
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.pdb
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/InterfacesInCSharp.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDayInterfacesInC-10_18_22/InterfacesInCSharp/obj/Debug/net6.0/ref/InterfacesInCSharp.dll

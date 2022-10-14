@@ -1,7 +1,8 @@
 # INTERFACES_IN_CSHARP
+
 Interfaces in C#
 
-# Interfaces
+## Interfaces
 
 Interfaces tell a class what it can do. This means that when you visually see an interface **implemented** onto a class, that means that the class you are looking at has an obligation to fulfill the requirements listed in the interface.
 
